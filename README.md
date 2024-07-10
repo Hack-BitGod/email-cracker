@@ -9,5 +9,5 @@ This tool is designed to aid in the recovery of email accounts and performs brut
 #### Installation
 ```
 >>> git clone https://github.com/Hack-BitGod/email-cracker.git
->>> >>> cd email-cracker
+>>> >>> cd email-cracker <br>
 >>> >>> To execute emailcracker.py use Python 2 or Python 3 
